@@ -9,6 +9,7 @@ function App() {
       <h2>Virat Kohli</h2>
       <h2>Rohith Sharma</h2>
       <h3>Dhoni</h3>
+      <h3>Yuvaraj Singh</h3>
       </div>
 
   );
