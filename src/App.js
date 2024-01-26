@@ -12,7 +12,7 @@ function App() {
       <h3>Yuvaraj Singh</h3>
       <h4>Raina</h4>
       <h2>Ishan Kishan</h2>
-      
+      <h2>Ravindra Jadeja</h2>
       </div>
 
   );
