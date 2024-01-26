@@ -11,6 +11,8 @@ function App() {
       <h3>Dhoni</h3>
       <h3>Yuvaraj Singh</h3>
       <h4>Raina</h4>
+      <h2>Ishan Kishan</h2>
+      
       </div>
 
   );
