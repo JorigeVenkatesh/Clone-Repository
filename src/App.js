@@ -13,6 +13,8 @@ function App() {
       <h4>Raina</h4>
       <h2>Ishan Kishan</h2>
       <h2>Ravindra Jadeja</h2>
+      <h2>Surya Kumar Yadav</h2>
+      <h2>Rinku Singh</h2>
       </div>
 
   );
