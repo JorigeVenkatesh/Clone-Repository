@@ -1,0 +1,10 @@
+h1{text-align: center; background-color: darkolivegreen;}
+.continerItems{ width: 300px;
+  border: 2px black double;
+  background-color:bisque;
+  text-align: center;
+  display: inline-block; 
+  margin: 20px;
+}
+img{width: 200px; height: 200px; object-fit: cover;}
+body{background-color: burlywood;}
