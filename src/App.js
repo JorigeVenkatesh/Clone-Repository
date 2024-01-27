@@ -16,6 +16,7 @@ function App() {
       <h2>Surya Kumar Yadav</h2>
       <h2>Rinku Singh</h2>
       <h2>Dinesh Karthik</h2>
+      <h2>Sachin Tendulkar</h2>
       </div>
 
   );
